@@ -1,2 +1,6 @@
 ****** Instructions Here ********
+
 *****Modified from local ********
+=======
+****** Changes from Remote ********
+

@@ -3,4 +3,11 @@
 *****Modified from local ********
 =======
 ****** Changes from Remote ********
+
 Change in Child Branch
+=======
+
+Changing the texts in this file ABCDEFGHI
+
+Change in Master Branch
+
